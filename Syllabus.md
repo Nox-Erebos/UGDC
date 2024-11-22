@@ -1,6 +1,6 @@
 # Syllabus for Unity Game Development Club
 
-## Objectives: Students will be able to :
+### > Objectives: Students will be able to :
 - Understand and use the Unity Editor and its components.
 - Write basic C# scripts to control game logic and behavior.
 - Create UI with text, images, buttons, sliders, etc.
@@ -68,7 +68,7 @@
 **Evaluation:** The club will not have any formal exams or grades. However, students will complete small assignments and a Final Project. The assignments will be based on the topics covered in each session and will require students to apply what they have learned. The Final Project will be based on the students’ game ideas and will require students to create a playable prototype of their game. The students will showcase their game to the rest of the school at the end of the year. Hopefully, this showcase will also pique other students' interest in game development.
 
 
-## Expectations: The club expects students to follow these rules and guidelines : 
+### > Expectations: The club expects students to follow these rules and guidelines : 
 - Respect each other’s ideas, opinions, work, and feedback.
 - Be Responsible for your learning progress.
 - Be Cooperative and Collaborative with your teammates and peers.
