@@ -9,11 +9,9 @@
 
 **Resources**
 - [**Preparation**](https://github.com/AlphaMC0/UGDC/blob/main/Prep.md)
-- [**Unity Download**](https://unity.com/download)
-- [**VS Code Download**](https://visualstudio.microsoft.com/downloads/)
-
+  
 **Assignments**
-- Write 2-3 sentences talking about who you are and why you wanted to join the club in **Github** and send a link of the Github Repository to (unity@jpa.org.kh).
+- Write 2-3 sentences talking about who you are and why you wanted to join the club in **Github** and send a link of the Github Repository to (unity@jpa.org.kh) and (suylising@jpa.org.kh)
 
 ___________________
 
