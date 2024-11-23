@@ -28,7 +28,7 @@ ___________________
 - [**Grass Asset**](https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810)
 
 **Assignments**
-- (No Assignments)
+- Explore Unity and create a scene with an enviroment of your choice using free assets.
 
 ___________________
 
