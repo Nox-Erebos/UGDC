@@ -18,6 +18,8 @@ ___________________
 
 ### Week 4 - Design (Lising)
 
+*Nov 26 & Nov 29*
+
 **Topics Covered**
 - Creating GameObjects
 - Adding assets & Installing Packages
@@ -27,8 +29,9 @@ ___________________
 **Resources**
 - [**Grass Asset**](https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810)
 
-**Assignments**
-- Explore Unity and create a scene with an enviroment of your choice using free assets.
+**Assignments** *Due Friday Nov 29th*
+
+- Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creavity run wild! You will be presenting it on Friday.
 
 ___________________
 
