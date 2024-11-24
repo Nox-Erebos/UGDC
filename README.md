@@ -6,4 +6,6 @@ This club aims to assist students who want to learn how to create video games wi
 
 #### II. [Preparation](https://github.com/Nox-Erebos/UGDC/blob/main/Prep.md)
 
-#### III.[Schedule](https://github.com/Nox-Erebos/UGDC/blob/main/Schedule.md)
+#### III. [Schedule](https://github.com/Nox-Erebos/UGDC/blob/main/Schedule.md)
+
+#### IV. [Student Repositories](https://github.com/Nox-Erebos/UGDC/blob/main/Student%20Repositories.md)
