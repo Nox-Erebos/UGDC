@@ -22,10 +22,12 @@ ___________________
 *Nov 26 & Nov 29*
 
 **Topics Covered**
-- Creating GameObjects
-- Adding assets & Installing Packages
-- Terrain Editing
-- GameObject Manipulation
+* Learning to navigate in Unity
+* Making GameObjects
+* Adding assets and installing packages
+* Adding rigidbody and materials
+* Customize terrains
+* Documentation on GitHub
 
 **Resources**
 
@@ -34,22 +36,28 @@ ___________________
 
 **Assignments** *Due Friday Nov 29th*
 
-- Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creavity run wild! You will be presenting it on Friday.
+* Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creavity run wild! 
+* Create a documentation of your first assignment on Github
+  - What steps did you take to create your work?
+  - What difficulties did you face?
+  - What would you do differently to make the process easier?
+  - What new things did you learn?
 
 ___________________
 
-**Week 5 - Into to 3d Assets**
+**Week 5 - Diving Deeper into Unity**
 
 **Topics Covered**
-- Go through the basics of 3D games
-- Game Objects (3d objects)
-- rigid bodies/collisions
-- simple physics
-- lightings
-
+* Making objects with ProBuilder
+* Lighting (Directional, spotlight, area, point) & reflection probes
+* Prefabs
+* Setting up a 3D character
+* Animation
+  
 **Resources**
-
-- [IntroTo3D-Assets](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
+* [Examples](https://alternaterealities.nyuadim.com/category/spring-2021/) of documentation
+* [Examples](https://github.com/pangnasun/ConnectionsLab) of Documentation 
+* [IntroTo3D-Assets](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
 ___________________
 
 ### Week 4
