@@ -55,9 +55,11 @@ ___________________
 * Animation
   
 **Resources**
-* [Examples](https://alternaterealities.nyuadim.com/category/spring-2021/) of documentation
-* [Examples](https://github.com/pangnasun/ConnectionsLab) of Documentation 
-* [IntroTo3D-Assets](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
+* [**Examples**](https://alternaterealities.nyuadim.com/category/spring-2021/) of documentation
+* [**Examples**](https://github.com/pangnasun/ConnectionsLab) of Documentation 
+* [**IntroTo3D-Assets**](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
+
+**Assignments** **
 ___________________
 
 ### Week 4
