@@ -42,10 +42,10 @@ ___________________
 
 **Topics Covered**
 - Go through the basics of 3D games
--  Game Objects (3d objects)
--  rigid bodies/collisions
--  simple physics
--  lightings
+- Game Objects (3d objects)
+- rigid bodies/collisions
+- simple physics
+- lightings
 
 **Resources**
 
