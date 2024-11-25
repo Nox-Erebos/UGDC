@@ -8,6 +8,7 @@
 - Installation of Unity and VS Code 
 
 **Resources**
+
 - [**Preparation**](https://github.com/Nox-Erebos/UGDC/blob/main/Prep.md)
 - [**VS Code Download**](https://visualstudio.microsoft.com/downloads/)
   
@@ -27,7 +28,9 @@ ___________________
 - GameObject Manipulation
 
 **Resources**
+
 - [**Grass Asset**](https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810)
+- [**UGDC-Assets**](https://assetstore.unity.com/lists/ugdc-assets-18968162955291)
 
 **Assignments** *Due Friday Nov 29th*
 
@@ -35,16 +38,18 @@ ___________________
 
 ___________________
 
-**Week 3 - Into to 3d Assets**
-- [**3d-Asset**](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
-- scroll down and download "IntoTo3D-Assets.zip"
+**Week 5 - Into to 3d Assets**
+
 **Topics Covered**
 - Go through the basics of 3D games
-  -  Game Objects (3d objects)
-  -  rigid bodies/collisions
-  -  simple physics
-  -  lightings
- 
+-  Game Objects (3d objects)
+-  rigid bodies/collisions
+-  simple physics
+-  lightings
+
+**Resources**
+
+- [IntroTo3D-Assets](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
 ___________________
 
 ### Week 4
