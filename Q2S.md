@@ -34,7 +34,7 @@ ___________________
 - [**Grass Asset**](https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810)
 - [**UGDC-Assets**](https://assetstore.unity.com/lists/ugdc-assets-18968162955291)
 
-**Assignments** *Due Friday Nov 29th*
+**Assignments** *Due Friday Nov 29th Tuesday Dec 3*
 
 * Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creativity run wild! 
 * Create a documentation of your first assignment on Github
