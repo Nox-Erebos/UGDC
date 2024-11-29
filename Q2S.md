@@ -36,13 +36,19 @@ ___________________
 
 **Assignments** *Due Friday Nov 29th*
 
-* Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creavity run wild! 
+* Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creativity run wild! 
 * Create a documentation of your first assignment on Github
   - What steps did you take to create your work?
   - What difficulties did you face?
   - What would you do differently to make the process easier?
   - What new things did you learn?
 
+* Create a detailed scene with a theme of your choice, using assets sourced from [Unity Asset Store](https://assetstore.unity.com/). Let your creativity run wild!
+* * Create a documentation of your second assignment on Github
+  - What steps did you take to create your work?
+  - What difficulties did you face?
+  - What would you do differently to make the process easier?
+  - What new things did you learn?
 ___________________
 
 **Week 5 - Diving Deeper into Unity**
@@ -59,7 +65,9 @@ ___________________
 * [**Examples**](https://github.com/pangnasun/ConnectionsLab) of Documentation 
 * [**IntroTo3D-Assets**](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
 
-**Assignments** **
+**Assignments** *Due Friday Dec 6*
+
+
 ___________________
 
 ### Week 4
