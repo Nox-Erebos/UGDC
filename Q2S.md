@@ -44,7 +44,7 @@ ___________________
   - What new things did you learn?
 
 * Create a detailed scene with a theme of your choice, using assets sourced from [Unity Asset Store](https://assetstore.unity.com/). Let your creativity run wild!
-* * Create a documentation of your second assignment on Github
+* Create a documentation of your second assignment on Github
   - What steps did you take to create your work?
   - What difficulties did you face?
   - What would you do differently to make the process easier?
@@ -67,6 +67,8 @@ ___________________
 
 **Assignments** *Due Friday Dec 6*
 
+* Explore the unity editor and create a useable prefab of a BameObject of your choice. **Make sure the GameObject isn't a random thing you put together.** Be creative create something cool.
+* Use that created prefab in a scene with a theme of your choice. Let your imagination run wild.
 
 ___________________
 
