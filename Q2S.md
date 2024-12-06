@@ -51,7 +51,7 @@ ___________________
   - What new things did you learn?
 ___________________
 
-**Week 5 - Diving Deeper into Unity**
+### Week 5 - Diving Deeper into Unity
 
 **Topics Covered**
 * Making objects with ProBuilder
@@ -72,7 +72,7 @@ ___________________
 
 ___________________
 
-### Week 4
+### Week 6 - 
 - Intro to 3d scripting
 - Player movements
 
