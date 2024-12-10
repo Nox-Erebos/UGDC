@@ -67,7 +67,7 @@ ___________________
 
 **Assignments** *Due Friday Dec 6*
 
-* Explore the unity editor and create a useable prefab of a BameObject of your choice. **Make sure the GameObject isn't a random thing you put together.** Be creative create something cool.
+* Explore the unity editor and create a useable prefab of a GameObject of your choice. **Make sure the GameObject isn't a random thing you put together.** Be creative create something cool.
 * Use that created prefab in a scene with a theme of your choice. Let your imagination run wild.
 
 ___________________
